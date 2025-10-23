@@ -104,11 +104,36 @@ button {
     max-width: 180px;
 }
 
+.section211 img {
+    border-radius: 10px;
+    border: solid #3882f6;
+}
+
 .section3 {
     background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
     font-size: 36px;
     color: #1F2937;
     font-weight: 300;
+    width: 500px;
+}
+
+.q {
+    margin: 0;
+    padding: 100px 0 0 0;
+}
+
+.author {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: end;
+    margin: 0;
+    padding: 0 0 100px 0;
 }
 
 .section4 {
