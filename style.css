@@ -19,6 +19,11 @@ h2 {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
+    margin: 50px 0 20px 0;
+}
+
+h3 {
+    color: #F9FAF8;
 }
 
 img {
@@ -102,6 +107,7 @@ button {
 
 .section211 {
     max-width: 180px;
+    text-align: center;
 }
 
 .section211 img {
@@ -126,6 +132,7 @@ button {
 .q {
     margin: 0;
     padding: 100px 0 0 0;
+    font-style: italic;
 }
 
 .author {
@@ -139,9 +146,14 @@ button {
 .section4 {
     background-color: #3882f6;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-    margin: 48px;
+    margin: 96px 192px 96px 192px;
+    padding: 36px 0 36px 0;
+}
+
+.section41 {
+    line-height: 0.1em;
 }
 
 #free {
