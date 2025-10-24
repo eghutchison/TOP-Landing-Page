@@ -150,6 +150,7 @@ button {
     align-items: center;
     margin: 96px 192px 96px 192px;
     padding: 36px 0 36px 0;
+    border-radius: 5px;
 }
 
 .section41 {
